@@ -1,0 +1,2 @@
+# -In-situ-Bio-Reactor-Protocol-for-Germinated-Brown-Rice-via-Multi-Acid-Chelation-Matrix-
+This protocol defines the engineering specifications for an external digestion (pre-digestion) system designed to neutralize the natural defense mechanisms (anti-nutrients, rigid cell walls) of brown rice via precise control of physical-chemical parameters, thereby maximizing human absorption efficiency. Abandoning conventional "cooking" paradigms
