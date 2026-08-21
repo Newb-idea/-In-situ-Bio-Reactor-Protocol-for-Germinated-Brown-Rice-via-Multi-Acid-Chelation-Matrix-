@@ -237,3 +237,30 @@ Ingest the biologically active potion, homogenized into a colloidal or creamy st
 
 * **Multi-Grain Scalability**: Enables the conversion of any unrefined grain—including amaranth (micro-seeds), quinoa (saponin-bearing), and millets—into a bio-available, raw functional emulsion by fine-tuning soaking and acid parameters tailored to each grain's specific defense mechanisms.
 * **Minimum Effort, Maximum Output**: Ultimate efficiency achieved by completing processing in an external bio-reactor, leaving zero burden on the biological system.
+
+
+複合酸システムを用いた生玄米スムージー手引書
+Handbook for Raw Brown Rice Smoothie Using the Composite Acid System
+1. 原料の準備 / Preparation of Ingredients
+飯米玄米ともち米玄米を適量用意する。
+Prepare an appropriate amount of standard brown rice and sweet (glutinous) brown rice.
+
+2. 浸漬と酸の投入 / Soaking and Acid Infusion
+お米を混ぜて洗い、煮えない程度のぬるま湯に浸す。ここで「複合酸システム」（米酢、リンゴ酢、ワイン酢、ビタミンC、クエン酸、ニガリ、ミネラル塩の混合液）を醤油さし等でひとさし、浸漬水に加える。
+Mix and wash the rice, then soak in lukewarm water (ensure the temperature is low enough not to cook the rice). At this point, add a dash of the "Composite Acid System" (a mixture of rice vinegar, apple cider vinegar, wine vinegar, vitamin C, citric acid, nigari, and mineral salt) to the soaking water.
+
+3. 換水と毒素パージ / Water Exchange and Toxin Purging
+2日ほど漬け込む。その間、数回は水またはぬるま湯で換水を行う。換水ごとに、複合酸システムをひとさし加える。換水を行うことで植物毒や有害物質を除去する。栄養分も若干抜ける可能性があるが、玄米特有の臭気を抜くために複数回の換水を行う。本システムによる複合酸の再添加は、毒抜き効果を高め、生穀物でありながら消化負荷を最小限に抑える設計である。
+Soak for approximately 2 days, changing the water (using water or lukewarm water) several times throughout the process. Add a dash of the acid mixture with every water change. Frequent water changes facilitate the removal of plant toxins and harmful substances. While some nutrients may be lost, the primary purpose of these repeated exchanges is to eliminate the odor characteristic of raw brown rice. The repeated addition of the Composite Acid System enhances the detoxification effect and is designed to minimize digestive stress, despite the grains being raw.
+
+4. 物理破砕と液体化 / Physical Processing and Liquefaction
+複数回換水した生玄米をファイバーミキサーに入れる。水適量と、再度「複合酸システム」をひとさし（好みで増量可）加え、長めに攪拌し、完全に液体化させる。
+Transfer the processed raw brown rice into a high-performance blender (fiber mixer). Add an appropriate amount of water and another dash of the Composite Acid System (adjust to taste). Blend for an extended period to ensure complete liquefaction.
+
+5. 自己酵素発酵 / Self-Enzyme Fermentation
+ミキサー後の液体をボール等に移す。ラップをかけ、冷蔵庫（または常温）で1〜2日置き、自己酵素発酵させる。これにより、プレーンヨーグルトのような状態へと変化する。
+After blending, transfer the mixture to a bowl. Cover with plastic wrap and allow it to undergo self-enzyme fermentation in the refrigerator (or at room temperature) for 1–2 days. The mixture will develop a texture similar to plain yogurt.
+
+6. 摂取 / Consumption
+好みの方法で摂取するか、料理の素材として活用する。
+Enjoy according to your preference or incorporate it into your culinary applications.
