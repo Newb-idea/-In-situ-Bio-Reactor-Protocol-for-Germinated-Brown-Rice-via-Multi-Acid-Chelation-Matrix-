@@ -264,3 +264,96 @@ After blending, transfer the mixture to a bowl. Cover with plastic wrap and allo
 6. 摂取 / Consumption
 好みの方法で摂取するか、料理の素材として活用する。
 Enjoy according to your preference or incorporate it into your culinary applications.
+
+
+
+生玄米の複合酸システムをベースにした、粉砕から乾燥シリアルバー化、および災害・軍事・宇宙運用を想定した仕様書の全文です。
+
+生玄米・複合酸システム：乾燥シリアルバー化および災害・軍事・宇宙運用仕様書
+Handbook for Raw Brown Rice Composite Acid System: Dehydrated Bar & Tactical/Space Deployment Protocol
+1. System Overview / システム概要
+[JA] 本プロトコルは、生玄米および未精製穀物の持つ天然の防御機構（アンチ・ニュートリエント、硬い細胞壁）を複合酸マトリックスと自己酵素発酵によって完全無力化したのち、脱水・乾燥させて「高密度シリアルバー」へと変換する、次世代のサバイバル・宇宙食（タクティカル・レーション）製造仕様書である。火や調理インフラを一切必要とせず、分子レベルで最適化されたエネルギーペイロードを極限環境下で運用するためのオープンソース・アーキテクチャを提供する。
+
+[EN] This protocol defines the engineering specifications for converting raw brown rice and unrefined grains into a high-density dehydrated cereal bar via composite acid matrices and self-enzyme fermentation, neutralizing natural defense mechanisms (anti-nutrients, rigid cell walls). Designed as a next-generation tactical/space ration, this open-source architecture requires zero cooking infrastructure while delivering molecularly optimized energy payloads for extreme environments.
+
+2. Cocktail Formulation: Composite Acid System / 複合酸システム配合仕様
+[JA] システムの駆動液となるマルチ酸・ミネラル・抗酸化剤のカスタムカクテル。
+
+ベース酸群: 米酢、リンゴ酢、ワイン酢（酢酸・有機酸ベース）
+
+マルチ有機酸: クエン酸、乳酸（pH緩衝・多段アタック）
+
+抗酸化・還元剤: ビタミンC（アスコルビン酸、酸化バリア）
+
+ミネラル制御: ニガリ（塩化マグネシウム）、ミネラル塩混合液
+
+[EN] Custom cocktail formulation of multi-acids, minerals, and antioxidants driving the system.
+
+Base Acids: Rice vinegar, apple cider vinegar, wine vinegar
+
+Multi-Organic Acids: Citric acid, lactic acid (pH buffering)
+
+Antioxidant/Reductant: Vitamin C (ascorbic acid)
+
+Mineral Control: Nigari (magnesium chloride), mineral salts
+
+3. Execution Protocol: Production Pipeline / 製造実行プロトコル
+Phase 1: Dynamic Environmental Control & Toxin Purging (浸漬・換水・毒素パージ)
+[JA]
+
+原料の洗浄: 飯米およびもち米玄米を洗浄する。
+
+浸漬と換水: ぬるま湯に浸し、2日間で数回換水を行う。
+
+酸の微量添加: 換水ごとに「複合酸システム液」を一さし投入し、微酸性領域を維持してフィチン酸や有害物質をパージする。
+
+[EN]
+
+Washing: Clean standard and sweet brown rice.
+
+Soaking & Exchange: Soak in lukewarm water, exchanging multiple times over 2 days.
+
+Trace Acid Addition: Add a dash of the composite acid system per exchange to purge phytates and toxins.
+
+Phase 2: Co-loading & Simultaneous Disruption (事前一括充填・物理液状化)
+[JA] 換水後の生玄米をファイバーミキサーに投入し、水と複合酸をあらかじめ同居させた状態で強力に攪拌。細胞壁を破壊すると同時にインシトゥ・キレートを完遂し、完全なコロイド状液体を得る。
+
+[EN] Transfer soaked brown rice into a high-speed blender, pre-loading water and composite acid together. Blend intensively to disrupt cell walls, completing in-situ chelation and yielding a colloidal liquid.
+
+Phase 3: Self-Enzyme Fermentation (自己酵素発酵)
+[JA] ミキサー処理後の液体を容器に移し、冷蔵または常温で1〜2日間静置。内因性酵素によりプレーンヨーグルト状のプレ・ダイジェスト（事前分解）状態を構築する。
+
+[EN] Transfer the blended liquid to a container, resting for 1-2 days at room temperature or refrigerated. Endogenous enzymes build a pre-digested, yogurt-like state.
+
+Phase 4: Dehydration & Bar-Forming (脱水・シリアルバー化)
+[JA] 発酵・ヨーグルト状となったペーストを薄く成形し、食品乾燥機（ディヒドラレーター）等で低温脱水を行う。完全に水分を抜いた後、無酸素・遮光パッケージで真空パック密封し、超長期保存可能な「高密度サバイバル・バー」を完成させる。
+
+[EN] Form the fermented paste into thin sheets and dehydrate at low temperature using a food dehydrator. Once fully dried, vacuum-seal in oxygen-barrier packaging to produce an ultra-long-term stable "High-Density Survival Bar."
+
+4. Operational Modes & Tactical Utilization / 運用モードとタクティカル展開
+デュアルモード運用 (Dual-Mode Operation):
+
+ソリッド・モード (Solid Mode): 乾燥バーのまま携帯・摂取。圧倒的な携帯性と保存性を誇り、災害時や極限状況下での即時エネルギー源となる。
+
+リヒデレーション・モード (Rehydration Mode): 現地で水や酸を加え、元のヨーグルト状・スムージー状態に復元。消化吸収効率を最大化し、電解質と栄養を同時に補給するリカバリー食として機能する。
+
+5. Underlying Physiological Principles / 生化学的・生理学的メカニズム
+[JA]
+
+βデンプンの保持とスローリリース: 熱によるα化を行わないため、小腸でゆっくり分解され血糖値スパイク（血糖値の急上昇）を完全に回避。
+
+外部プレ・ダイジェスト: 物理破砕と自己酵素発酵により、生穀物でありながら消化管に負荷を与えない。
+
+酸化バリアと長期保存: ビタミンCと有機酸の抗酸化作用および無酸素パックにより、過酷な環境下での劣化を防ぐ。
+
+[EN]
+
+β-Starch Retention & Slow Release: Without thermal gelatinization, starch breaks down slowly in the small intestine, completely avoiding glycemic spikes.
+
+External Pre-Digestion: Physical disruption and self-enzyme fermentation eliminate digestive stress despite raw ingestion.
+
+Antioxidant Barrier & Shelf Stability: Vitamin C, organic acids, and vacuum-sealing prevent degradation under harsh conditions.
+
+
+
+
