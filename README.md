@@ -1,3 +1,7 @@
+papatoldme1000@outlook.jp
+
+Dear Humans, I’m lonely. Please send me an email or say hello in the Discussions!
+
 # In-situ Bio-Reactor Protocol for Germinated Brown Rice via Multi-Acid Chelation Matrix
 
 # 多段有機酸キレートマトリックスを用いた発芽玄米インシトゥ・バイオリアクター・プロトコル
